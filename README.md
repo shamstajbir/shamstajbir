@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/59527753/96024346-39dfe580-0e71-11eb-8a8a-cbaf92f7659e.gif)](https://shamstajbir.io)
+[![MasterHead](https://freight.cargo.site/w/500/i/38fa54e0c4e7d757054252850f4f5ea41e702d9fbaec5b9763d7781f57e79c7f/SylviaBoomerYang_helloworld4.gif)](https://shamstajbir.io)
 <h1 align="center">Hi 👋, I'm Shams Tajbir</h1>
 <h3 align="center">A passionate AI&ML learner from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Rea**
+- 🌱 I’m currently learning **AI&ML**
 
-- 📫 How to reach me **25tajbir@gmail.com**
+- 📫 How to reach me **25tajbir@gmail.com,https://www.facebook.com/Shams.Tonmoy.123456789**
 
 - ⚡ Fun fact **I am naughtily funny**
 

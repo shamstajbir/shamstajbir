@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/59527753/96024346-39dfe580-0e71-11eb-8a8a-cbaf92f7659e.gif)](https://shamstajbir.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4D12AQGQpfanNwLguQ/article-cover_image-shrink_600_2000/0/1680078784227?e=2147483647&v=beta&t=PFFJ0FHtFi33DpeLR_nbXknXgI-Ot5eaGsznITm9J18)](https://shamstajbir.io)
 <h1 align="center">Hi 👋, I'm Shams Tajbir</h1>
 <h3 align="center">A passionate AI&ML learner from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">

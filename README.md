@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamstajbir&label=Profile%20views&color=0e75b6&style=flat" alt="shamstajbir" /> </p>
 <p align="left"><a href="https://wakatime.com/@018d3842-a0f3-4feb-b025-748009eee0b9"><img src="https://wakatime.com/badge/user/018d3842-a0f3-4feb-b025-748009eee0b9.svg" alt="Total time coded since Jan 24 2024" /></a></p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-🌱 I am deeply engaged in advancing my expertise in Artificial Intelligence, Machine Learning, and Full-Stack Development.
+🌱 I am deeply engaged in advancing my expertise in Artificial Intelligence, Machine Learning, and  Development.
 
 💼 I am actively seeking opportunities for collaboration, innovative projects, and impactful research.
 

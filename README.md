@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQGQpfanNwLguQ/article-cover_image-shrink_600_2000/0/1680078784227?e=2147483647&v=beta&t=PFFJ0FHtFi33DpeLR_nbXknXgI-Ot5eaGsznITm9J18)
+![MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)
 
 <h1 align="center">Hello 👋, I'm Shams Tajbir</h1>
 <h3 align="center">Innovative AI Specialist | Web Development Enthusiast | Startup Visionary | Driving Technology Forward | Shaping Future Solutions</h3>

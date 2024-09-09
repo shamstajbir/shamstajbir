@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shamstajbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamstajbir" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Shams.Tonmoy.123456789/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamstajbir" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shams_tajbir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="25tajbir" height="30" width="40" /></a>
+<a href="[https://www.instagram.com/shams_tajbir/](https://www.instagram.com/butter_xoootch/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="25tajbir" height="30" width="40" /></a>
 </p>
 <h3 align="left">Skills and Technologies:</h3>
 <p align="left">

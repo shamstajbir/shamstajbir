@@ -67,10 +67,11 @@ with a strong emphasis on solving real-world problems and driving innovation.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamstajbir&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamstajbir&theme=react&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamstajbir&theme=react&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shamstajbir&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamstajbir&theme=radical&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamstajbir&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
+
 
 ## 🏆 GitHub Trophies
 

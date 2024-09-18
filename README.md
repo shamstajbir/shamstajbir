@@ -67,18 +67,21 @@ with a strong emphasis on solving real-world problems and driving innovation.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamstajbir&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamstajbir&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamstajbir&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  
 </p>
-
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamstajbir&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shamstajbir&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
+
+
 
 ### ✍️ Inspirational Dev Quote
 
